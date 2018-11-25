@@ -143,6 +143,13 @@
         android:summary="@string/show_fourg_icon_summary" 
         android:defaultValue="false"/>
 
+    <com.dot.support.preferences.SystemSettingSwitchPreference
+        android:key="data_disabled_icon"
+        android:layout="@layout/dot_preference_middle_card"
+        android:title="@string/data_disabled_icon_title" 
+        android:summary="@string/data_disabled_icon_summary"
+        android:defaultValue="true"/>
+
     <com.android.settings.display.ScreenZoomPreference
         android:key="display_settings_screen_zoom"
         android:layout="@layout/dot_preference_middle_card"
