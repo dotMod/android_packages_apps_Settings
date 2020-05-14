@@ -296,4 +296,7 @@
 
     <!-- Configure notifications: Title for advanced notification settings pane -->
     <string name="advanced_notifications_title">Advanced notification settings</string>
+
+    <!-- Specs -->
+    <string name="specs_title">Phone Specifications</string>
 </resources>
