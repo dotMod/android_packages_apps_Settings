@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 dotOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+     
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dot_version">DotOS バージョン</string>
+    <string name="dot_version_default">不明</string>
+    <string name="keywords_dot_version">DotOS バージョン、Dot バージョン</string>
+    <string name="about_device_name">端末のコードネーム</string>
+    <string name="build_date">ビルド日時</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">ビルド日時、ビルド情報</string>
+    <string name="app_play_store">Google Play</string>
+    <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
+    <string name="platform_revision">プラットフォーム</string>
+    <string name="total_ram">合計 RAM</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">スマートフォン前面にある指紋認証センサーを探します</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">スマートフォン左側にある指紋認証センサーを探します</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">スマートフォン右側にある指紋認証センサーを探します</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">端末前面にある指紋認証センサーを探します</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">端末左側にある指紋認証センサーを探します</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">端末右側にある指紋認証センサーを探します</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">タブレット前面にある指紋認証センサーを探します</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">タブレット左側にある指紋認証センサーを探します</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">タブレット右側にある指紋認証センサーを探します</string>
+    <string name="selinux_status">SELinux のステータス</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+    <string name="storage_card_title">ストレージ</string>
+    <string name="storage_card_info">使用中</string>
+    <string name="about_device_rom_title">DotOS %s</string>
+    <string name="about_device_nearby">端末名は近くの端末にから見られるようにすることができます。</string>
+    <string name="binfo_stats">統計情報</string>
+    <string name="dot_customizer_dashboard_title">カスタマイズ</string>
+    <string name="dot_customizer_dashboard_summary">一滴の絵の具であなたの経験を唯一のものにしましょう</string>
+    <string name="dot_gaming_mode_dashboard_title">ゲームダッシュボード</string>
+    <string name="dot_gaming_mode_dashboard_summary">ゲームの集中の邪魔をブロックする</string>
+    <string name="dot_about_device_info">法的情報</string>
+    <string name="dot_about_device_private">プライベート詳細</string>
+    <string name="dot_lightMode">ライトテーマ</string>
+    <string name="dot_darkMode">ダークテーマ</string>
+    <string name="cellular_data_title">モバイルデータ</string>
+    <string name="connected_tws_device_saved_title">保存されたイヤホン</string>
+    <string name="mobile_data_settings_summary_unavailable">利用可能な SIM カードがありません</string>
+    <string name="unlock_scramble_pin_layout_title">ランダムなレイアウト</string>
+    <string name="unlock_scramble_pin_layout_summary">端末のロック解除時に PIN レイアウトをランダムにする</string>
+    <string name="statusbar_tuner_title">ステータスバーチューナー</string>
+    <string name="security_settings_face_settings_footer_custom">顔認証ロック解除では端末を覗き込むことでロック解除できます。以下のことに中止して下さい:\n\n● いつでもあなたの端末はロック解除できるようになります。\n● あなたの目が開いている間に他人があなたの端末をあなたの顔に向けたら誰でもロック解除が可能です。\n● 子供や兄弟などの見た目が似ている人物の顔でロック解除される可能性があります。</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">顔認証ロック解除により記録されたデータは完全かつ安全に削除されます。削除後は PIN、パターン、パスワードで端末をロック解除する必要があります。</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">既存の顔スキャンを削除して新しいスキャンを作成する</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">顔スキャンを再実行</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">画面ロック、指紋、顔認証でロック解除</string>
+    <string name="face_redo_confirm_btn">やり直す</string>
+    <string name="face_redo_warning_msg">既存の顔スキャンを削除して新しいスキャンを作成しますか?</string>
+    <string name="live_display_summary">画面を見やすく目の疲れを軽減するために時間と周囲の環境に合わせて画面を最適化する</string>
+    <string name="live_display_mode">表示モード</string>
+    <string name="live_display_color_temperature_title">色温度</string>
+    <string name="live_display_color_temperature_summary">昼: <xliff:g id="day_temperature">%1$d</xliff:g>K  夜: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
+    <string name="live_display_day">昼</string>
+    <string name="live_display_night">夜</string>
+    <string name="live_display_outdoor_mode_title">自動屋外モード</string>
+    <string name="live_display_outdoor_mode_summary">明るい日差しが照射する環境下で明るさと彩度を自動的に向上させる</string>
+    <string name="live_display_anti_flicker_title">アンチフリッカー</string>
+    <string name="live_display_anti_flicker_summary">幅広いちらつきを防ぎ、暗い環境での目への負担を軽減します。色の再現度が低下したり、いくつかの項目の表示に影響する可能性があります。</string>
+    <string name="live_display_low_power_title">消費電力を削減</string>
+    <string name="live_display_low_power_summary">性能を低下させずに画面を最低の消費電力に調整する</string>
+    <string name="live_display_enhance_color_title">色を拡張</string>
+    <string name="live_display_enhance_color_summary">肌の色・風景・他の画像の色の鮮やかさを補正する</string>
+    <string name="live_display_color_profile_title">色のプロファイル</string>
+    <string name="live_display_color_profile_standard_title">標準</string>
+    <string name="live_display_color_profile_standard_summary">正確な色と明るい白</string>
+    <string name="live_display_color_profile_natural_title">自然</string>
+    <string name="live_display_color_profile_natural_summary">写実的な色と肌色</string>
+    <string name="live_display_color_profile_dynamic_title">動的</string>
+    <string name="live_display_color_profile_dynamic_summary">補正された色と明るい白</string>
+    <string name="live_display_color_profile_cinema_title">映画</string>
+    <string name="live_display_color_profile_cinema_summary">動画の完璧な色再現</string>
+    <string name="live_display_color_profile_astronomy_title">夜空</string>
+    <string name="live_display_color_profile_astronomy_summary">夜間視力に優しい深い赤</string>
+    <string name="live_display_color_profile_photography_title">写真</string>
+    <string name="live_display_color_profile_photography_summary">写真の完全な色再現</string>
+    <string name="live_display_color_profile_basic_title">基本</string>
+    <string name="live_display_color_profile_basic_summary">無調整のディスプレイを使用する</string>
+    <string name="live_display_color_profile_adaptive_title">自動調節</string>
+    <string name="live_display_color_profile_adaptive_summary">色を周囲の状況に適応する</string>
+    <string name="live_display_color_profile_reading_title">読書</string>
+    <string name="live_display_color_profile_reading_summary">目の負担を軽減するため暖かい色にする</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">正確な sRGB 色空間に補正する</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">正確な DCI-P3 色空間に補正する</string>
+    <string name="live_display_reading_mode_title">読書モード</string>
+    <string name="live_display_reading_mode_summary">長期間読書するのに適したグレースケールモードに変更する</string>
+    <string name="color_calibration_title">色の補正</string>
+    <string name="color_calibration_summary">画面の色を調整する</string>
+    <string name="color_red_title">赤</string>
+    <string name="color_green_title">緑</string>
+    <string name="color_blue_title">青</string>
+    <string name="picture_adjustment_title">画像調整</string>
+    <string name="picture_adjustment_summary">色相・彩度・輝度・コントラストを調整する</string>
+    <string name="adj_hue_title">色相</string>
+    <string name="adj_saturation_title">彩度</string>
+    <string name="adj_intensity_title">輝度</string>
+    <string name="adj_contrast_title">コントラスト</string>
+    <string name="display_rotation_title">回転の設定</string>
+    <string name="display_rotation_enabled">画面の自動回転は有効です</string>
+    <string name="display_rotation_disabled">画面の自動回転は無効です</string>
+    <string name="display_rotation_unit">角度</string>
+    <string name="display_rotation_category_title">回転のモード</string>
+    <string name="display_rotation_0_title">0度</string>
+    <string name="display_rotation_90_title">90度</string>
+    <string name="display_rotation_180_title">180度</string>
+    <string name="display_rotation_270_title">270度</string>
+    <string name="data_usage_app_restrict_all">ネットワークアクセスを許可</string>
+    <string name="data_usage_app_restrict_all_summary">ネットワークの使用状況を有効化する</string>
+    <string name="data_usage_app_restrict_mobile">モバイルデータ</string>
+    <string name="data_usage_app_restrict_mobile_summary">モバイルデータ使用量を有効化する</string>
+    <string name="data_usage_app_restrict_vpn">VPN データ</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN データ使用量を有効化する</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi データ使用量</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi\u2011Fi データ使用量を有効化する</string>
+    <string name="tethering_allow_vpn_upstreams_title">クライアントの VPN 使用の許可</string>
+    <string name="tethering_allow_vpn_upstreams_summary">この端末の VPN 接続をホットスポットのクライアントが送信接続に使うことを許可する</string>
+    <string name="device_info_protected_single_press">タップして情報を表示</string>
+    <string name="volume_link_notification_title">着信と通知の音量をリンク</string>
+    <string name="incall_feeedback_vibrate_title">振動で通話状態を知らせる</string>
+    <string name="increasing_ring_volume_option_title">着信音量の増幅</string>
+    <string name="increasing_ring_min_volume_title">開始音量</string>
+    <string name="increasing_ring_ramp_up_time_title">増幅時間</string>
+    <string name="top_level_connectivity">接続</string>
+    <string name="top_level_personalize">パーソナライズ</string>
+    <string name="top_level_others">その他</string>
+    <string name="smallest_tick_label">OFF</string>
+    <string name="greatest_tick_label">半画面</string>
+    <string name="gesture_back_deadzone_label">非認識範囲</string>
+    <string name="back_sensitivity_dialog_message_cust">\n最初と2番目のシークバーで戻るジェスチャースワイプ感度を編集し、最後のシークバーでスワイプを認識しない画面領域を設定し、アプリ内ジェスチャーとの競合を回避します。</string>
+    <string name="security_settings_face_require_swipe">上にスワイプしてロック解除</string>
+    <string name="security_settings_face_require_swipe_summary">ロック画面を上にスワイプして顔認識を使用する</string>
+    <string name="face_unlock_method_title">ロック画面での顔認証ロック解除を許可</string>
+    <string name="face_unlock_method_default">画面が点灯した時</string>
+    <string name="face_unlock_method_swipe">ロック画面をスワイプした時</string>
+    <string name="dot_battery_manager">バッテリー管理</string>
+    <string name="dot_battery_manager_summary1">• バッテリー節約 : </string>
+    <string name="dot_battery_manager_summary2">\n• 自動調整バッテリー : </string>
+    <string name="backup_transport_setting_label">バックアッププロバイダの変更</string>
+    <string name="backup_transport_title">バックアッププロバイダの選択</string>
+    <string name="battery_stats_reset">統計データを消去しますか?</string>
+    <string name="battery_stats_message">バッテリーの使用統計はリセットされます</string>
+    <string name="legacy_wfd_video_mode_title">ビデオモード</string>
+    <string name="legacy_wfd_video_mode_720p_30fps">720p (30fps)</string>
+    <string name="legacy_wfd_video_mode_720p_60fps">720p (60fps)</string>
+    <string name="legacy_wfd_video_mode_1080p_30fps">1080p (30fps)</string>
+    <string name="legacy_wfd_video_mode_1080p_60fps">1080p (60fps)</string>
+    <string name="wake_when_plugged_or_unplugged_title">電源接続時にスリープ解除</string>
+    <string name="wake_when_plugged_or_unplugged_summary">電源を接続または切断した時に画面を点灯させる</string>
+    <string name="screenshot_sound_title">スクリーンショットの音</string>
+</resources>

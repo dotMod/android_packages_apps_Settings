@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 dotOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+     
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dot_version">dotOS 버전</string>
+    <string name="dot_version_default">알 수 없음</string>
+    <string name="keywords_dot_version">dotOS 버전, dot 버전</string>
+    <string name="about_device_name">기기 코드명</string>
+    <string name="build_date">빌드 날짜</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">빌드 날짜, 빌드 정보</string>
+    <string name="app_play_store">Google Play</string>
+    <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
+    <string name="platform_revision">플랫폼</string>
+    <string name="total_ram">전체 RAM</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">휴대 전화 전면에 지문 센서가 있습니다.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">휴대 전화 왼쪽 측면에 지문 센서가 있습니다.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">휴대 전화 오른쪽 측면에 지문 센서가 있습니다.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">기기 전면에 지문 센서가 있습니다.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">기기 왼쪽 측면에 지문 센서가 있습니다.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">기기 오른쪽 측면에 지문 센서가 있습니다.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">태블릿 전면에 지문 센서가 있습니다.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">태블릿 왼쪽 측면에 지문 센서가 있습니다.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">태블릿 오른쪽 측면에 지문 센서가 있습니다.</string>
+    <string name="selinux_status">SELinux 상태</string>
+    <string name="selinux_status_disabled">Disabled (비활성화됨)</string>
+    <string name="selinux_status_permissive">Permissive (허용 모드)</string>
+    <string name="selinux_status_enforcing">Enforcing (강제 모드)</string>
+    <string name="storage_card_title">저장 공간</string>
+    <string name="storage_card_info">사용 중</string>
+    <string name="about_device_rom_title">DotOS %s</string>
+    <string name="about_device_nearby">기기 이름이 주변 다른 기기에 표시될 수 있습니다.</string>
+    <string name="binfo_stats">통계</string>
+    <string name="dot_customizer_dashboard_title">커스터마이징</string>
+    <string name="dot_customizer_dashboard_summary">나다운 기기 만들기</string>
+    <string name="dot_gaming_mode_dashboard_title">Gaming Dashboard</string>
+    <string name="dot_gaming_mode_dashboard_summary">Keeps you focused on the game</string>
+    <string name="dot_about_device_info">법적 정보 &amp; 기기 정보</string>
+    <string name="dot_about_device_private">일련 번호</string>
+    <string name="dot_lightMode">밝은 테마</string>
+    <string name="dot_darkMode">어두운 테마</string>
+    <string name="cellular_data_title">모바일 데이터</string>
+    <string name="connected_tws_device_saved_title">연결한 적 있는 무선 이어폰</string>
+    <string name="mobile_data_settings_summary_unavailable">사용할 수 있는 SIM 카드 없음</string>
+    <string name="unlock_scramble_pin_layout_title">키패드 순서 섞기</string>
+    <string name="unlock_scramble_pin_layout_summary">기기 잠금을 해제할 때 PIN 입력 키패드 순서를 섞습니다.</string>
+    <string name="statusbar_tuner_title">상태 표시줄 튜너</string>
+    <string name="security_settings_face_settings_footer_custom">얼굴인식 잠금해제를 사용하면 기기를 쳐다보는 것만으로 잠금해제할 수 있습니다.\n\n● 의도하지 않고 기기를 쳐다봐도 잠금해제됩니다.\n● 눈을 뜨고 있을 때 기기가 얼굴을 향해 있으면 타인이 잠금해제할 수 있습니다.\n● 자녀 또는 형제자매처럼 얼굴이 닮은 사람이 기기 잠금을 해제할 수 있습니다.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">기기에 기록된 얼굴 정보는 영구적으로 안전하게 지워집니다. 삭제 후 PIN, 패턴, 또는 암호를 사용해 잠금해제 하여야 합니다.</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">기존의 얼굴 스캔을 제거하고 새로 스캔합니다.</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">얼굴 스캔 다시 하기</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">화면 잠금, 지문, 얼굴인식 잠금해제</string>
+    <string name="face_redo_confirm_btn">다시 하기</string>
+    <string name="face_redo_warning_msg">기존 얼굴 스캔을 제거하고 새로 스캔하시겠습니까?</string>
+    <string name="live_display_summary">가독성을 향상시키고 눈의 피로를 줄이기 위해 주변 환경과 시간에 따라 화면을 최적화합니다</string>
+    <string name="live_display_mode">화면 모드</string>
+    <string name="live_display_color_temperature_title">색 온도</string>
+    <string name="live_display_color_temperature_summary">낮: <xliff:g id="day_temperature">%1$d</xliff:g>K 밤: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
+    <string name="live_display_day">낮</string>
+    <string name="live_display_night">밤</string>
+    <string name="live_display_outdoor_mode_title">자동 야외 모드</string>
+    <string name="live_display_outdoor_mode_summary">밝은 햇빛 아래에서 자동으로 밝기와 채도를 증가시킵니다</string>
+    <string name="live_display_anti_flicker_title">안티 플리커 (화면 깜박임 방지)</string>
+    <string name="live_display_anti_flicker_summary">낮은 밝기의 환경에서 화면 깜박임을 방지하고 눈의 피로를 줄입니다. 색 정확도가 저하되고 일부 항목이 표시되는 방식에 영향을 미칠 수 있습니다.</string>
+    <string name="live_display_low_power_title">전력 소모 줄이기</string>
+    <string name="live_display_low_power_summary">화질 저하 없이 화면을 조정하여 전력 소모를 감소시킵니다</string>
+    <string name="live_display_enhance_color_title">색상 향상</string>
+    <string name="live_display_enhance_color_summary">피부색, 풍경 등 기타 이미지에서 색의 생동감을 향상시킵니다</string>
+    <string name="live_display_color_profile_title">색상 프로필</string>
+    <string name="live_display_color_profile_standard_title">표준</string>
+    <string name="live_display_color_profile_standard_summary">정확한 색상과 밝은 흰색을 표현합니다</string>
+    <string name="live_display_color_profile_natural_title">자연스러운 색상</string>
+    <string name="live_display_color_profile_natural_summary">사실적인 색과 피부색을 표현합니다</string>
+    <string name="live_display_color_profile_dynamic_title">강조된 색상</string>
+    <string name="live_display_color_profile_dynamic_summary">색상을 향상시키고 흰색을 밝게 표현합니다</string>
+    <string name="live_display_color_profile_cinema_title">영화</string>
+    <string name="live_display_color_profile_cinema_summary">영상의 색을 완벽하게 재현합니다</string>
+    <string name="live_display_color_profile_astronomy_title">야간</string>
+    <string name="live_display_color_profile_astronomy_summary">야간 시야 확보를 위해 화면을 빨갛게 합니다</string>
+    <string name="live_display_color_profile_photography_title">사진</string>
+    <string name="live_display_color_profile_photography_summary">사진의 색을 완벽하게 재현합니다</string>
+    <string name="live_display_color_profile_basic_title">기본</string>
+    <string name="live_display_color_profile_basic_summary">보정되지 않은 화면을 사용합니다</string>
+    <string name="live_display_color_profile_adaptive_title">적응형</string>
+    <string name="live_display_color_profile_adaptive_summary">주변 상황에 따라 색을 조절합니다</string>
+    <string name="live_display_color_profile_reading_title">읽기</string>
+    <string name="live_display_color_profile_reading_summary">눈의 피로를 줄이기 위해 따뜻한 색상을 사용합니다</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">sRGB 색 영역에서 정확한 색을 표현합니다.</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">DCI-P3 색 영역에서 정확한 색을 표현합니다.</string>
+    <string name="live_display_reading_mode_title">읽기 모드</string>
+    <string name="live_display_reading_mode_summary">장시간 독서를 위한 흑백 모드</string>
+    <string name="color_calibration_title">색상 보정</string>
+    <string name="color_calibration_summary">화면의 색상을 보정합니다</string>
+    <string name="color_red_title">빨강</string>
+    <string name="color_green_title">초록</string>
+    <string name="color_blue_title">파랑</string>
+    <string name="picture_adjustment_title">사진 조정</string>
+    <string name="picture_adjustment_summary">색조, 채도, 강도, 대비를 조정합니다</string>
+    <string name="adj_hue_title">색조</string>
+    <string name="adj_saturation_title">채도</string>
+    <string name="adj_intensity_title">강도</string>
+    <string name="adj_contrast_title">대비</string>
+    <string name="display_rotation_title">화면 회전 설정</string>
+    <string name="display_rotation_enabled">자동 회전 켜짐</string>
+    <string name="display_rotation_disabled">자동 회전 꺼짐</string>
+    <string name="display_rotation_unit">도</string>
+    <string name="display_rotation_category_title">회전 모드</string>
+    <string name="display_rotation_0_title">0도</string>
+    <string name="display_rotation_90_title">90도</string>
+    <string name="display_rotation_180_title">180도</string>
+    <string name="display_rotation_270_title">270도</string>
+    <string name="data_usage_app_restrict_all">네트워크 접근 허용</string>
+    <string name="data_usage_app_restrict_all_summary">네트워크 사용량 활성화</string>
+    <string name="data_usage_app_restrict_mobile">모바일 데이터</string>
+    <string name="data_usage_app_restrict_mobile_summary">모바일 데이터 사용량을 활성화합니다</string>
+    <string name="data_usage_app_restrict_vpn">VPN 데이터</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN 데이터 사용량을 활성화합니다</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi 데이터</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi\u2011Fi 데이터 사용량을 활성화합니다</string>
+    <string name="tethering_allow_vpn_upstreams_title">연결 기기가 VPN을 사용하도록 허용</string>
+    <string name="tethering_allow_vpn_upstreams_summary">핫스팟 연결 기기가 이 기기의 VPN을 사용할 수 있도록 허용합니다</string>
+    <string name="device_info_protected_single_press">탭하여 정보 보기</string>
+    <string name="volume_link_notification_title">벨소리와 알림 볼륨 같이 조절</string>
+    <string name="incall_feeedback_vibrate_title">전화 상태 진동 알림</string>
+    <string name="increasing_ring_volume_option_title">점점 커지는 벨소리</string>
+    <string name="increasing_ring_min_volume_title">시작 음량</string>
+    <string name="increasing_ring_ramp_up_time_title">음량 증가 시간</string>
+    <string name="top_level_connectivity">연결</string>
+    <string name="top_level_personalize">개인</string>
+    <string name="top_level_others">기타</string>
+    <string name="smallest_tick_label">Off</string>
+    <string name="greatest_tick_label">Half screen</string>
+    <string name="gesture_back_deadzone_label">Dead zone</string>
+    <string name="back_sensitivity_dialog_message_cust">\nUse the first and second seekbar to configure back swipe sensitivity, the last seekbar to set a dead area on top of the screen where the swipe cannot be triggered, to avoid conflicts with in-app gestures.</string>
+    <string name="security_settings_face_require_swipe">위로 쓸어올려서 잠금 해제</string>
+    <string name="security_settings_face_require_swipe_summary">잠금 화면을 위로 쓸어올려서 얼굴 인식 잠금 해제</string>
+    <string name="face_unlock_method_title">잠금 화면에서 얼굴 인식 잠금 해제 허용</string>
+    <string name="face_unlock_method_default">화면이 켜져 있을 때</string>
+    <string name="face_unlock_method_swipe">잠금 화면에서 쓸어올릴 때</string>
+    <string name="dot_battery_manager">Battery Manager</string>
+    <string name="dot_battery_manager_summary1">• Battery Saver : </string>
+    <string name="dot_battery_manager_summary2">\n• Adaptive Battery : </string>
+    <string name="backup_transport_setting_label">Change backup provider</string>
+    <string name="backup_transport_title">Select backup provider</string>
+    <string name="battery_stats_reset">Clear usage data?</string>
+    <string name="battery_stats_message">Battery usage data will be lost</string>
+    <string name="legacy_wfd_video_mode_title">Video mode</string>
+    <string name="legacy_wfd_video_mode_720p_30fps">720p (30fps)</string>
+    <string name="legacy_wfd_video_mode_720p_60fps">720p (60fps)</string>
+    <string name="legacy_wfd_video_mode_1080p_30fps">1080p (30fps)</string>
+    <string name="legacy_wfd_video_mode_1080p_60fps">1080p (60fps)</string>
+    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="screenshot_sound_title">Screenshot sound</string>
+</resources>

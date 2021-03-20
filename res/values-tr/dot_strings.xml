@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 dotOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+     
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dot_version">dotOS sürümü</string>
+    <string name="dot_version_default">Bilinmiyor</string>
+    <string name="keywords_dot_version">dotOS sürümü, dot sürümü</string>
+    <string name="about_device_name">Cihaz kod adı</string>
+    <string name="build_date">Yapı tarihi</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">yapı tarihi, yapı bilgisi</string>
+    <string name="app_play_store">Google play</string>
+    <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
+    <string name="platform_revision">Platform</string>
+    <string name="total_ram">Toplam RAM</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Telefonunuzun önünde bulunan parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Telefonunuzun sol tarafında bulunan parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Telefonunuzun sağ tarafında bulunan parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Cihazınızın ön tarafında bulunan parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Telefonunuzun sol tarafında bulunan parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Cihazınızın sağ tarafında bulunan parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Tabletinizin ön tarafında bulunan parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Tabletinizin sol tarafında bulunan parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Tabletinizin sağ tarafında bulunan parmak izi sensörünü bulun.</string>
+    <string name="selinux_status">SELinux durumu</string>
+    <string name="selinux_status_disabled">Devre dışı</string>
+    <string name="selinux_status_permissive">Permissive (Serbest)</string>
+    <string name="selinux_status_enforcing">Enforcing (Zorunlu)</string>
+    <string name="storage_card_title">Depolama</string>
+    <string name="storage_card_info">Kullanımda</string>
+    <string name="about_device_rom_title">DotOS %s</string>
+    <string name="about_device_nearby">Cihaz adı yakındaki cihazlar tarafından görülebilir ve görülecektir.</string>
+    <string name="binfo_stats">İstatistikler</string>
+    <string name="dot_customizer_dashboard_title">Özelleştirmeler</string>
+    <string name="dot_customizer_dashboard_summary">Deneyiminizi bir damla boya ile kişiselleştirin</string>
+    <string name="dot_gaming_mode_dashboard_title">Oyun paneli</string>
+    <string name="dot_gaming_mode_dashboard_summary">Oyuna odaklanmanızı sağlar</string>
+    <string name="dot_about_device_info">Yasal &amp; Bilgiler</string>
+    <string name="dot_about_device_private">Özel ayrıntılar</string>
+    <string name="dot_lightMode">Açık tema</string>
+    <string name="dot_darkMode">Koyu tema</string>
+    <string name="cellular_data_title">Mobil veri</string>
+    <string name="connected_tws_device_saved_title">Kayıtlı kulaklıklar</string>
+    <string name="mobile_data_settings_summary_unavailable">Mevcut SIM kart yok</string>
+    <string name="unlock_scramble_pin_layout_title">Karışık düzen</string>
+    <string name="unlock_scramble_pin_layout_summary">Cihazın kilidini açarken PIN düzenini karıştır</string>
+    <string name="statusbar_tuner_title">Durum çubuğu ayarlayıcı</string>
+    <string name="security_settings_face_settings_footer_custom">Yüz tanıma kilidi, cihazınıza bakarak kilidini açmanızı sağlar. Unutmayın:\n\n● Cihazınıza baktığınızda kilidi açılabilir.\n● Cihazınız, gözleriniz açıkken başka biri tarafından yüzünüzün önünde tutulursa kilidi açılabilir.\n● Cihazın kilidi, çocuk veya öz kardeş gibi size çok benzeyen biri tarafından da açılabilir.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">Yüz tanıma kilidi ile kaydedilen veriler kalıcı ve güvenli bir şekilde silinir. Kaldırma işleminden sonra telefonunuzun kilidini açmak için PIN, desen veya şifre kullanmanız gerekir.</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Mevcut yüz taramasını kaldır ve yeni bir tarama oluştur</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Yüz taramasını yeniden yap</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">Ekran kilidi, parmak izi, yüz tanıma kilidi</string>
+    <string name="face_redo_confirm_btn">Yeniden yap</string>
+    <string name="face_redo_warning_msg">Mevcut yüz taramasını kaldırmak ve yeni bir tarama oluşturmak ister misiniz?</string>
+    <string name="live_display_summary">Okunabilirliği artırmak ve göz yorgunluğunu azaltmak için ekranınızı günün zamanına ve ortam koşullarına göre optimize edin</string>
+    <string name="live_display_mode">Görüntü modu</string>
+    <string name="live_display_color_temperature_title">Renk sıcaklığı</string>
+    <string name="live_display_color_temperature_summary">Gündüz: <xliff:g id="day_temperature">%1$d</xliff:g>K Gece: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
+    <string name="live_display_day">Gündüz</string>
+    <string name="live_display_night">Gece</string>
+    <string name="live_display_outdoor_mode_title">Otomatik dış mekan modu</string>
+    <string name="live_display_outdoor_mode_summary">Parlak güneş ışığı altında parlaklığı ve doygunluğu otomatik olarak arttırır</string>
+    <string name="live_display_anti_flicker_title">Titreme önleme</string>
+    <string name="live_display_anti_flicker_summary">Düşük ışık koşullarında aşırı titremeyi önleyin ve göz yorgunluğunu azaltın. Bu ayar renk doğruluğunu düşürebilir ve bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
+    <string name="live_display_low_power_title">Güç tüketimini azalt</string>
+    <string name="live_display_low_power_summary">Ekranda bozulma olmadan en düşük güç tüketimi için ayarlar</string>
+    <string name="live_display_enhance_color_title">Renkleri geliştir</string>
+    <string name="live_display_enhance_color_summary">Ten tonları, sahne ve diğer görüntülerin renk titreşimini geliştir</string>
+    <string name="live_display_color_profile_title">Renk profili</string>
+    <string name="live_display_color_profile_standard_title">Standart</string>
+    <string name="live_display_color_profile_standard_summary">Doğru renkler ve parlak beyazlar</string>
+    <string name="live_display_color_profile_natural_title">Doğal</string>
+    <string name="live_display_color_profile_natural_summary">Gerçekçi renkler ve canlı tonlar</string>
+    <string name="live_display_color_profile_dynamic_title">Dinamik</string>
+    <string name="live_display_color_profile_dynamic_summary">Gelişmiş renkler ve parlak beyazlar</string>
+    <string name="live_display_color_profile_cinema_title">Sinema</string>
+    <string name="live_display_color_profile_cinema_summary">Videolar için harika renk üretimi</string>
+    <string name="live_display_color_profile_astronomy_title">Astronomi</string>
+    <string name="live_display_color_profile_astronomy_summary">Gece görüşünü korumak için yoğun kırmızı</string>
+    <string name="live_display_color_profile_photography_title">Fotoğrafçılık</string>
+    <string name="live_display_color_profile_photography_summary">Fotoğraflar için mükemmel renk sunumu</string>
+    <string name="live_display_color_profile_basic_title">Temel</string>
+    <string name="live_display_color_profile_basic_summary">Ekranı kalibre edilmemiş şekilde kullan</string>
+    <string name="live_display_color_profile_adaptive_title">Uyarlanabilir</string>
+    <string name="live_display_color_profile_adaptive_summary">Renkleri ortam koşullarına göre uyarla</string>
+    <string name="live_display_color_profile_reading_title">Okuma</string>
+    <string name="live_display_color_profile_reading_summary">Daha az göz yorgunluğu için sıcak renkler</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">sRGB renk aralığına göre uygun renkler</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">DCI-P3 renk aralığına göre uygun renkler</string>
+    <string name="live_display_reading_mode_title">Okuma modu</string>
+    <string name="live_display_reading_mode_summary">Uzun süreli okuma için gri tonlama modu</string>
+    <string name="color_calibration_title">Renk kalibrasyonu</string>
+    <string name="color_calibration_summary">Ekran renklerini kalibre edin</string>
+    <string name="color_red_title">Kırmızı</string>
+    <string name="color_green_title">Yeşil</string>
+    <string name="color_blue_title">Mavi</string>
+    <string name="picture_adjustment_title">Resim ayarlama</string>
+    <string name="picture_adjustment_summary">Ton, doygunluk, yoğunluk ve kontrastı ayarla</string>
+    <string name="adj_hue_title">Ton</string>
+    <string name="adj_saturation_title">Doygunluk</string>
+    <string name="adj_intensity_title">Yoğunluk</string>
+    <string name="adj_contrast_title">Kontrast</string>
+    <string name="display_rotation_title">Döndürme ayarları</string>
+    <string name="display_rotation_enabled">Otomatik döndürme etkin</string>
+    <string name="display_rotation_disabled">Otomatik döndürme devre dışı</string>
+    <string name="display_rotation_unit">derece</string>
+    <string name="display_rotation_category_title">Döndürme modları</string>
+    <string name="display_rotation_0_title">0 derece</string>
+    <string name="display_rotation_90_title">90 derece</string>
+    <string name="display_rotation_180_title">180 derece</string>
+    <string name="display_rotation_270_title">270 derece</string>
+    <string name="data_usage_app_restrict_all">Ağ erişimine izin ver</string>
+    <string name="data_usage_app_restrict_all_summary">Ağ kullanımını etkinleştir</string>
+    <string name="data_usage_app_restrict_mobile">Mobil veri</string>
+    <string name="data_usage_app_restrict_mobile_summary">Mobil veri kullanımını etkinleştir</string>
+    <string name="data_usage_app_restrict_vpn">VPN verisi</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN veri kullanımını etkinleştir</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi veri</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi\u2011Fi veri kullanımını etkinleştir</string>
+    <string name="tethering_allow_vpn_upstreams_title">İstemcilerin VPN kullanmasına izin ver</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Hotspot kullanıcılarının bağlantıları sırasında bu cihazın \u2019s VPN bağlantısını kullanmasına izin ver</string>
+    <string name="device_info_protected_single_press">Bilgileri göstermek için dokunun</string>
+    <string name="volume_link_notification_title">Zil sesi &amp; bildirim sesini bağla</string>
+    <string name="incall_feeedback_vibrate_title">Arama durumunu bildirmek için titret</string>
+    <string name="increasing_ring_volume_option_title">Artan zil sesi</string>
+    <string name="increasing_ring_min_volume_title">Başlangıç sesi</string>
+    <string name="increasing_ring_ramp_up_time_title">Yükselme süresi</string>
+    <string name="top_level_connectivity">Bağlantılar</string>
+    <string name="top_level_personalize">Kişiselleştirme</string>
+    <string name="top_level_others">Diğer</string>
+    <string name="smallest_tick_label">Kapalı</string>
+    <string name="greatest_tick_label">Yarım ekran</string>
+    <string name="gesture_back_deadzone_label">Etkisiz alan</string>
+    <string name="back_sensitivity_dialog_message_cust">\nGeri kaydırma hassasiyetini yapılandırmak için ilk arama çubuğunu, uygulama içi hareketlerle çakışmaları önlemek üzere ekranın kaydırmanın tetiklenebileceği alanını ayarlamak için ikinci arama çubuğunu kullanın.</string>
+    <string name="security_settings_face_require_swipe">Kilidi açmak için yukarı kaydırın</string>
+    <string name="security_settings_face_require_swipe_summary">Yüz tanıma kilidini kullanmak için kilit ekranında yukarı kaydırın</string>
+    <string name="face_unlock_method_title">Kilit ekranında yüz kilidini açmaya izin ver</string>
+    <string name="face_unlock_method_default">Ekran açıldığında</string>
+    <string name="face_unlock_method_swipe">Kilit ekranında kaydırırken</string>
+    <string name="dot_battery_manager">Pil Yöneticisi</string>
+    <string name="dot_battery_manager_summary1">• Pil Tasarrufu : </string>
+    <string name="dot_battery_manager_summary2">\n• Uyarlanabilir Pil : </string>
+    <string name="backup_transport_setting_label">Yedekleme sağlayıcısını değiştir</string>
+    <string name="backup_transport_title">Yedekleme sağlayıcı seçin</string>
+    <string name="battery_stats_reset">Kullanım verileri temizlensin mi?</string>
+    <string name="battery_stats_message">Pil kullanım verileri kaybolacak</string>
+    <string name="legacy_wfd_video_mode_title">Video modu</string>
+    <string name="legacy_wfd_video_mode_720p_30fps">720p (30fps)</string>
+    <string name="legacy_wfd_video_mode_720p_60fps">720p (60fps)</string>
+    <string name="legacy_wfd_video_mode_1080p_30fps">1080p (30fps)</string>
+    <string name="legacy_wfd_video_mode_1080p_60fps">1080p (60fps)</string>
+    <string name="wake_when_plugged_or_unplugged_title">Takıp çıkarmada uyan</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Şarj aleti takıldığında ya da çıkarıldığında ekranı aç</string>
+    <string name="screenshot_sound_title">Ekran görüntüsü sesi</string>
+</resources>

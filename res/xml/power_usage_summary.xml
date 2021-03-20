@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res-auto"
+    android:key="power_usage_summary_screen"
+    android:title="@string/power_usage_summary_title"
+    settings:keywords="@string/keywords_battery">
+
+    <com.android.settingslib.widget.LayoutPreference
+        android:key="battery_header"
+        android:title="@string/summary_placeholder"
+        android:selectable="true"
+        android:layout="@layout/battery_header"
+        settings:controller="com.android.settings.fuelgauge.BatteryHeaderPreferenceController" />
+
+    <com.android.settings.widget.CardPreference
+        android:key="battery_tip"
+        android:title="@string/summary_placeholder"
+        settings:controller="com.android.settings.fuelgauge.batterytip.BatteryTipPreferenceController" />
+
+    <com.android.settingslib.widget.LayoutPreference
+        android:key="battery_stats_view"
+        android:title="@string/summary_placeholder"
+        android:selectable="false"
+        android:enabled="false"
+        android:shouldDisableView="false"
+        android:layout="@layout/dot_battery_stats_pref" />
+
+    <com.android.settingslib.widget.LayoutPreference
+        android:title="@string/summary_placeholder"
+        android:selectable="false"
+        android:enabled="false"
+        android:shouldDisableView="false"
+        android:layout="@layout/dot_battery_opt" />
+
+    <com.android.settings.widget.CardPreference
+        android:key="dot_battery_manager"
+        android:title="@string/dot_battery_manager"
+        android:icon="@drawable/ic_dot_battery_saver"
+        android:layout="@layout/card_preference_layout_bm"
+        settings:controller="com.android.settings.fuelgauge.batterytip.DotBatteryManagerPreferenceController">
+        <intent android:action="android.intent.action.MAIN"
+            android:targetPackage="com.dot.lifesaver"
+            android:targetClass="com.dot.lifesaver.activities.Launcher" />
+    </com.android.settings.widget.CardPreference>
+
+    <SwitchPreference
+        android:key="battery_percentage"
+        android:title="@string/battery_percentage"
+        android:summary="@string/battery_percentage_description"
+        settings:controller="com.android.settings.display.BatteryPercentagePreferenceController" />
+
+</PreferenceScreen>

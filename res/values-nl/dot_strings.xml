@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 dotOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+     
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dot_version">dotOS versie</string>
+    <string name="dot_version_default">Onbekend</string>
+    <string name="keywords_dot_version">dotOS versie, dot versie</string>
+    <string name="about_device_name">Codenaam apparaat</string>
+    <string name="build_date">Gebouwd op</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">bouwdatum, bouw-informatie</string>
+    <string name="app_play_store">Google Play</string>
+    <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
+    <string name="platform_revision">Platform</string>
+    <string name="total_ram">Totale RAM-geheugen</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Zoek de vingerafdruksensor op de voorkant van je telefoon.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Zoek de vingerafdruksensor op de linker zijde van je telefoon.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Zoek de vingerafdruksensor op de rechter zijde van uw telefoon.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Zoek de vingerafdrukscanner aan de voorkant van uw apparaat.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Zoek de vingerafdruksensor op de linker zijde van je telefoon.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Zoek de vingerafdruksensor op de rechter zijde van uw toestel.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Gebruik de vingerafdrukscanner op de voorkant van uw tablet.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Zoek de vingerafdruksensor op de linker zijde van je tablet.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Zoek de vingerafdruksensor op de rechter zijde van uw tablet.</string>
+    <string name="selinux_status">SELinux-status</string>
+    <string name="selinux_status_disabled">Uitgeschakeld</string>
+    <string name="selinux_status_permissive">Permissive (Tolerant)</string>
+    <string name="selinux_status_enforcing">Enforcing (Wordt afgedwongen)</string>
+    <string name="storage_card_title">Opslag</string>
+    <string name="storage_card_info">Gebruikt</string>
+    <string name="about_device_rom_title">DotOS %s</string>
+    <string name="about_device_nearby">De apparaatnaam kan en zal worden gezien door de apparaten in de buurt.</string>
+    <string name="binfo_stats">Statistieken</string>
+    <string name="dot_customizer_dashboard_title">Aanpassingen</string>
+    <string name="dot_customizer_dashboard_summary">Personaliseer uw ervaring met een druppel verf</string>
+    <string name="dot_gaming_mode_dashboard_title">Gaming Dashboard</string>
+    <string name="dot_gaming_mode_dashboard_summary">Houdt je gefocust op het spel</string>
+    <string name="dot_about_device_info">Juridische informatie</string>
+    <string name="dot_about_device_private">Privé Details</string>
+    <string name="dot_lightMode">Lichte thema</string>
+    <string name="dot_darkMode">Donkere thema</string>
+    <string name="cellular_data_title">Mobiele data</string>
+    <string name="connected_tws_device_saved_title">Opgeslagen oordopjes</string>
+    <string name="mobile_data_settings_summary_unavailable">Geen SIM-kaart beschikbaar</string>
+    <string name="unlock_scramble_pin_layout_title">Willekeurige lay-out</string>
+    <string name="unlock_scramble_pin_layout_summary">Willekeurige PIN lay-out bij het ontgrendelen van het apparaat</string>
+    <string name="statusbar_tuner_title">Statusbalk tuner</string>
+    <string name="security_settings_face_settings_footer_custom">Gezichtsherkenning ontgrendeld je apparaat via zicht. Houd rekening met:\n\n● Je apparaat kan ontgrendelen als je er naar kijkt.\n●Je apparaat kan door iemand anders worden ontgrendeld als ze hem voor je gezicht houden als je ogen open zijn.\n● Je apparaat kan mogelijk ook worden ontgrendeld door iemand die veel op je lijkt, bijvoorbeeld een kind of indentieke broer/zus.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">Gegevens die worden vastgelegd via gezichtsherkenning, worden permanent en veilig verwijderd. Na het verwijderen heb je je pincode, patroon of wachtwoord nodig om je telefoon te ontgrendelen.</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Verwijder de bestaande gezichtsherkenning en maak een nieuwe scan</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Gezicht opnieuw scannen</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">Schermvergrendeling, vingerafdruk, gezichtsherkenning</string>
+    <string name="face_redo_confirm_btn">Opnieuw</string>
+    <string name="face_redo_warning_msg">Wil je de bestaande gezichtsherkenning verwijderen en een nieuwe maken?</string>
+    <string name="live_display_summary">Uw scherm optimaliseren aan de hand van tijdstip en lichtomstandigheden om de leesbaarheid te verbeteren en oogvermoeidheid te verminderen</string>
+    <string name="live_display_mode">Weergavemodus</string>
+    <string name="live_display_color_temperature_title">Kleurtemperatuur</string>
+    <string name="live_display_color_temperature_summary">Dag: <xliff:g id="day_temperature">%1$d</xliff:g>K  Nacht: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
+    <string name="live_display_day">Dag</string>
+    <string name="live_display_night">Nacht</string>
+    <string name="live_display_outdoor_mode_title">Automatische buitenmodus</string>
+    <string name="live_display_outdoor_mode_summary">Helderheid en verzadiging automatisch verhogen bij fel zonlicht</string>
+    <string name="live_display_anti_flicker_title">Anti-flikkering</string>
+    <string name="live_display_anti_flicker_summary">Voorkom sterke flikkering en verminder oogvermoeidheid bij weinig licht. Het kan de zuiverheid van kleuren aantasten en de wijze waarop sommige items weergegeven worden beïnvloeden.</string>
+    <string name="live_display_low_power_title">Energieverbruik beperken</string>
+    <string name="live_display_low_power_summary">Scherm aanpassen voor laagst mogelijke energieverbruik zonder kwaliteitsverlies</string>
+    <string name="live_display_enhance_color_title">Kleuren verbeteren</string>
+    <string name="live_display_enhance_color_summary">Kleurlevendigheid verbeteren van huidtinten, landschappen en andere afbeeldingen</string>
+    <string name="live_display_color_profile_title">Kleurprofiel</string>
+    <string name="live_display_color_profile_standard_title">Standaard</string>
+    <string name="live_display_color_profile_standard_summary">Nauwkeurige kleuren en heldere witwaarden</string>
+    <string name="live_display_color_profile_natural_title">Natuurlijk</string>
+    <string name="live_display_color_profile_natural_summary">Realistische kleuren en huidtinten</string>
+    <string name="live_display_color_profile_dynamic_title">Dynamisch</string>
+    <string name="live_display_color_profile_dynamic_summary">Verbeterde kleuren en heldere witwaarden</string>
+    <string name="live_display_color_profile_cinema_title">Cinema</string>
+    <string name="live_display_color_profile_cinema_summary">Perfecte kleurweergave voor video</string>
+    <string name="live_display_color_profile_astronomy_title">Astronomie</string>
+    <string name="live_display_color_profile_astronomy_summary">Donkerrood voor het behoud van nachtzicht</string>
+    <string name="live_display_color_profile_photography_title">Fotografie</string>
+    <string name="live_display_color_profile_photography_summary">Perfecte kleurweergave voor foto\'s</string>
+    <string name="live_display_color_profile_basic_title">Eenvoudig</string>
+    <string name="live_display_color_profile_basic_summary">Scherm ongekalibreerd gebruiken</string>
+    <string name="live_display_color_profile_adaptive_title">Adaptief</string>
+    <string name="live_display_color_profile_adaptive_summary">Kleuren passen zich aan aan de omgeving</string>
+    <string name="live_display_color_profile_reading_title">Lezen</string>
+    <string name="live_display_color_profile_reading_summary">Warmere kleuren voor minder vermoeidheid van de ogen</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Kleuren binnen het sRGB-kleurenpalet</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Kleuren binnen het DCI-P3-kleurenpalet</string>
+    <string name="live_display_reading_mode_title">Leesmodus</string>
+    <string name="live_display_reading_mode_summary">Grijstintenmodus voor langdurig lezen</string>
+    <string name="color_calibration_title">Kleurkalibratie</string>
+    <string name="color_calibration_summary">Schermkleuren kalibreren</string>
+    <string name="color_red_title">Rood</string>
+    <string name="color_green_title">Groen</string>
+    <string name="color_blue_title">Blauw</string>
+    <string name="picture_adjustment_title">Beeldaanpassingen</string>
+    <string name="picture_adjustment_summary">Tint, verzadiging, intensiteit en contrast aanpassen</string>
+    <string name="adj_hue_title">Tint</string>
+    <string name="adj_saturation_title">Verzadiging</string>
+    <string name="adj_intensity_title">Intensiteit</string>
+    <string name="adj_contrast_title">Contrast</string>
+    <string name="display_rotation_title">Rotatie-instellingen</string>
+    <string name="display_rotation_enabled">Automatische rotatie is ingeschakeld</string>
+    <string name="display_rotation_disabled">Automatische rotatie is uitgeschakeld</string>
+    <string name="display_rotation_unit">graden</string>
+    <string name="display_rotation_category_title">Rotatie modes</string>
+    <string name="display_rotation_0_title">0 graden</string>
+    <string name="display_rotation_90_title">90 graden</string>
+    <string name="display_rotation_180_title">180 graden</string>
+    <string name="display_rotation_270_title">270 graden</string>
+    <string name="data_usage_app_restrict_all">Netwerktoegang toestaan</string>
+    <string name="data_usage_app_restrict_all_summary">Netwerkgebruik inschakelen</string>
+    <string name="data_usage_app_restrict_mobile">Mobiele data</string>
+    <string name="data_usage_app_restrict_mobile_summary">Schakel het gebruik van mobiele data in</string>
+    <string name="data_usage_app_restrict_vpn">VPN gegevens</string>
+    <string name="data_usage_app_restrict_vpn_summary">Schakel gebruik van VPN-data in</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi data</string>
+    <string name="data_usage_app_restrict_wifi_summary">Gebruik van Wi\u2011Fi data inschakelen</string>
+    <string name="tethering_allow_vpn_upstreams_title">Gebruikers toestaan om VPN te gebruiken</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Sta hotspot-gebruikers toe om de VPN-verbindingen van dit apparaat\u2019 te gebruiken om te uploaden</string>
+    <string name="device_info_protected_single_press">Tik om info te tonen</string>
+    <string name="volume_link_notification_title">Koppel beltoon &amp; meldingsvolumes</string>
+    <string name="incall_feeedback_vibrate_title">Vibreer om belstatus aan te geven</string>
+    <string name="increasing_ring_volume_option_title">Hoger beltoon volume</string>
+    <string name="increasing_ring_min_volume_title">Begin volume</string>
+    <string name="increasing_ring_ramp_up_time_title">Inwerktijd</string>
+    <string name="top_level_connectivity">Connectiviteit</string>
+    <string name="top_level_personalize">Personaliseren</string>
+    <string name="top_level_others">Overige</string>
+    <string name="smallest_tick_label">Uit</string>
+    <string name="greatest_tick_label">Half scherm</string>
+    <string name="gesture_back_deadzone_label">Dode zone</string>
+    <string name="back_sensitivity_dialog_message_cust">\nGebruik de eerste en tweede zoekbalk om de gevoeligheid van de terug-veeg in te stellen. En de laatste zoekbalk om een dode plek boven het scherm in te stellen waar de veeg niet kan worden geactiveerd. Dit om conflicten met in-app gebaren te voorkomen.</string>
+    <string name="security_settings_face_require_swipe">Veeg omhoog om te ontgrendelen</string>
+    <string name="security_settings_face_require_swipe_summary">Veeg omhoog op het vergrendelscherm om gezichtsherkenning te gebruiken</string>
+    <string name="face_unlock_method_title">Gezichtsherkenning toestaan op vergrendelscherm</string>
+    <string name="face_unlock_method_default">Wanneer het scherm is ingeschakeld</string>
+    <string name="face_unlock_method_swipe">Bij het vegen op vergrendelscherm</string>
+    <string name="dot_battery_manager">Batterijbeheer</string>
+    <string name="dot_battery_manager_summary1">• Batterijbesparing : </string>
+    <string name="dot_battery_manager_summary2">\n• Adaptieve batterij: </string>
+    <string name="backup_transport_setting_label">Wijzig back-up provider</string>
+    <string name="backup_transport_title">Selecteer back-up provider</string>
+    <string name="battery_stats_reset">Gebruiksgegevens wissen?</string>
+    <string name="battery_stats_message">Batterijgegevens zullen verloren gaan</string>
+    <string name="legacy_wfd_video_mode_title">Videomodus</string>
+    <string name="legacy_wfd_video_mode_720p_30fps">720p (30fps)</string>
+    <string name="legacy_wfd_video_mode_720p_60fps">720p (60fps)</string>
+    <string name="legacy_wfd_video_mode_1080p_30fps">1080p (30fps)</string>
+    <string name="legacy_wfd_video_mode_1080p_60fps">1080p (60fps)</string>
+    <string name="wake_when_plugged_or_unplugged_title">Ontwaken door lader</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Scherm inschakelen bij het aansluiten of loskoppelen van de lader</string>
+    <string name="screenshot_sound_title">Screenshot geluid</string>
+</resources>

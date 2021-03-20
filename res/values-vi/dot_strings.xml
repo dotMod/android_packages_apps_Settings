@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 dotOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+     
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dot_version">Phiên bản dotOS</string>
+    <string name="dot_version_default">Không xác định</string>
+    <string name="keywords_dot_version">Phiên bản dotOS, phiên bản dot</string>
+    <string name="about_device_name">Tên mã thiết bị</string>
+    <string name="build_date">Ngày dựng</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">ngày dựng, thông tin bản dựng</string>
+    <string name="app_play_store">Google Play</string>
+    <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
+    <string name="platform_revision">Nền tảng</string>
+    <string name="total_ram">Tổng RAM</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Vị trí cảm biến vân tay ở mặt trước điện thoại của bạn.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Vị trí cảm biến vân tay ở bên trái điện thoại của bạn.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Vị trí cảm biến vân tay ở bên phải điện thoại của bạn.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Vị trí cảm biến vân tay ở mặt trước thiết bị của bạn.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Vị trí cảm biến vân tay nằm ở cạnh trái điện thoại của bạn.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Vị trí cảm biến vân tay nằm ở bên cạnh phải thiết bị của bạn.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Vị trí cảm biến vân tay nằm ở mặt trước máy tính bảng.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Vị trí cảm biến vân tay nằm ở cạnh trái máy tính bảng.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Vị trí cảm biến vân tay nằm ở cạnh phải máy tính bảng.</string>
+    <string name="selinux_status">Trạng thái SELinux</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Quyền</string>
+    <string name="selinux_status_enforcing">Thực thi</string>
+    <string name="storage_card_title">Lưu trữ</string>
+    <string name="storage_card_info">Sử dụng</string>
+    <string name="about_device_rom_title">DotOS%s</string>
+    <string name="about_device_nearby">Tên thiết bị có thể và sẽ được nhìn thấy bởi các thiết bị lân cận.</string>
+    <string name="binfo_stats">Thống kê</string>
+    <string name="dot_customizer_dashboard_title">Tuỳ biến</string>
+    <string name="dot_customizer_dashboard_summary">Cá nhân hóa trải nghiệm với tùy biến</string>
+    <string name="dot_gaming_mode_dashboard_title">Bảng cài đặt trò chơi</string>
+    <string name="dot_gaming_mode_dashboard_summary">Giúp bạn tập trung vào trò chơi</string>
+    <string name="dot_about_device_info">Pháp lý &amp; thông tin</string>
+    <string name="dot_about_device_private">Quyền riêng tư</string>
+    <string name="dot_lightMode">Chủ đề sáng</string>
+    <string name="dot_darkMode">Chủ đề tối</string>
+    <string name="cellular_data_title">Dữ liệu di động</string>
+    <string name="connected_tws_device_saved_title">Lưu trạng thái tai nghe</string>
+    <string name="mobile_data_settings_summary_unavailable">Hiện không có thẻ SIM</string>
+    <string name="unlock_scramble_pin_layout_title">Thiết lập layout</string>
+    <string name="unlock_scramble_pin_layout_summary">Yêu cầu mã PIN khi mở khóa thiết bị</string>
+    <string name="statusbar_tuner_title">Bộ điều chỉnh thanh trạng thái</string>
+    <string name="security_settings_face_settings_footer_custom">Mở khóa bằng khuôn mặt giúp bạn mở khóa thiết bị bằng cách nhìn vào nó. Hãy nhớ:\n\n● Thiết bị của bạn có thể mở bất cứ lúc nào khi mà bạn nhìn vào nó.\n● Thiết bị của bạn có thể được mở khóa bởi người khác nếu họ giơ điện thoại lên trước mặt bạn khi mà mắt bạn đang được mở.\n● Thiết bị của bạn cũng có thể bị mở khóa bởi người nào đó trông giống bạn, chẳng hạn như trẻ em hoặc anh chị em song sinh.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">Dữ liệu được ghi lại bằng tính năng mở khóa bằng khuôn mặt sẽ bị xóa vĩnh viễn và an toàn. Sau khi xóa, bạn sẽ cần mã PIN, mẫu hình, mật khẩu để mở khóa điện thoại.</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Xóa quét khuôn mặt hiện có và tạo quét khuôn mặt mới</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Quét lại khuôn mặt</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">Khóa màn hình, vân tay, mở khóa bằng khuôn mặt</string>
+    <string name="face_redo_confirm_btn">Đi tới</string>
+    <string name="face_redo_warning_msg">Bạn có muốn xóa quét khuôn mặt hiện có và tạo quét khuôn mặt mới không?</string>
+    <string name="live_display_summary">Tối ưu hóa màn hình dựa trên điều kiện môi trường và thời gian trong ngày để cải thiện khả năng đọc và giảm mỏi mắt</string>
+    <string name="live_display_mode">Chế độ Hiển thị</string>
+    <string name="live_display_color_temperature_title">Nhiệt độ màu</string>
+    <string name="live_display_color_temperature_summary">Ngày: <xliff:g id="day_temperature">%1$d</xliff:g>K  Đêm: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
+    <string name="live_display_day">Ngày</string>
+    <string name="live_display_night">Đêm</string>
+    <string name="live_display_outdoor_mode_title">Tự động điều chỉnh khi ra ngoài trời</string>
+    <string name="live_display_outdoor_mode_summary">Tự động tăng độ sáng và độ bão hòa dưới ánh sáng mặt trời</string>
+    <string name="live_display_anti_flicker_title">Chống nhấp nháy</string>
+    <string name="live_display_anti_flicker_summary">Ngăn chặn hiện tượng nhấp nháy trên diện rộng và giảm mỏi mắt trong điều kiện ánh sáng yếu. Nó có thể làm giảm độ chính xác của màu sắc và ảnh hưởng đến cách một số mục được hiển thị.</string>
+    <string name="live_display_low_power_title">Giảm tiêu thụ điện năng</string>
+    <string name="live_display_low_power_summary">Điều chỉnh hiển thị cho tiêu thụ điện năng thấp nhất mà không làm giảm chất lượng</string>
+    <string name="live_display_enhance_color_title">Tăng cường màu sắc</string>
+    <string name="live_display_enhance_color_summary">Cải thiện độ rung màu sắc của màu da, cảnh quan và hình ảnh khác</string>
+    <string name="live_display_color_profile_title">Cấu hình màu</string>
+    <string name="live_display_color_profile_standard_title">Tiêu chuẩn</string>
+    <string name="live_display_color_profile_standard_summary">Màu sắc chính xác và màu trắng sáng</string>
+    <string name="live_display_color_profile_natural_title">Tự nhiên</string>
+    <string name="live_display_color_profile_natural_summary">Màu sắc thực tế và màu da</string>
+    <string name="live_display_color_profile_dynamic_title">Động</string>
+    <string name="live_display_color_profile_dynamic_summary">Màu sắc được tăng cường và màu trắng sáng</string>
+    <string name="live_display_color_profile_cinema_title">Rạp chiếu phim</string>
+    <string name="live_display_color_profile_cinema_summary">Tái tạo màu sắc hoàn hảo cho video</string>
+    <string name="live_display_color_profile_astronomy_title">Thiên văn học</string>
+    <string name="live_display_color_profile_astronomy_summary">Đỏ sâu để duy trì tầm nhìn ban đêm</string>
+    <string name="live_display_color_profile_photography_title">Nhiếp ảnh</string>
+    <string name="live_display_color_profile_photography_summary">Tái tạo màu sắc hoàn hảo cho hình ảnh</string>
+    <string name="live_display_color_profile_basic_title">Cơ bản</string>
+    <string name="live_display_color_profile_basic_summary">Dùng hiển thị không hiệu chỉnh</string>
+    <string name="live_display_color_profile_adaptive_title">Thích ứng</string>
+    <string name="live_display_color_profile_adaptive_summary">Màu sắc thích ứng với điều kiện môi trường xung quanh</string>
+    <string name="live_display_color_profile_reading_title">Đọc</string>
+    <string name="live_display_color_profile_reading_summary">Các màu ấm hơn cho mỏi mắt ít hơn</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Màu sắc chính xác cho dải màu sRGB</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Màu sắc chính xác cho khoảng cách màu DCI-P3</string>
+    <string name="live_display_reading_mode_title">Chế độ đọc</string>
+    <string name="live_display_reading_mode_summary">Chế độ màu xám để đọc sách lâu dài</string>
+    <string name="color_calibration_title">Hiệu chỉnh màu sắc</string>
+    <string name="color_calibration_summary">Hiệu chỉnh màu sắc trên màn hình</string>
+    <string name="color_red_title">Đỏ</string>
+    <string name="color_green_title">Xanh lá</string>
+    <string name="color_blue_title">Xanh dương</string>
+    <string name="picture_adjustment_title">Hiệu chỉnh hình ảnh</string>
+    <string name="picture_adjustment_summary">Hiệu chỉnh tông màu, bão hòa, cường độ và độ tương phản</string>
+    <string name="adj_hue_title">Màu sắc</string>
+    <string name="adj_saturation_title">Độ bão hòa</string>
+    <string name="adj_intensity_title">Cường độ</string>
+    <string name="adj_contrast_title">Độ tương phản</string>
+    <string name="display_rotation_title">Cài đặt xoay</string>
+    <string name="display_rotation_enabled">Tự động xoay được bật</string>
+    <string name="display_rotation_disabled">Tự động xoay bị tắt</string>
+    <string name="display_rotation_unit">độ</string>
+    <string name="display_rotation_category_title">Chế độ xoay</string>
+    <string name="display_rotation_0_title">0 độ</string>
+    <string name="display_rotation_90_title">90 độ</string>
+    <string name="display_rotation_180_title">180 độ</string>
+    <string name="display_rotation_270_title">270 độ</string>
+    <string name="data_usage_app_restrict_all">Cho phép truy cập mạng</string>
+    <string name="data_usage_app_restrict_all_summary">Cho phép sử dụng mạng</string>
+    <string name="data_usage_app_restrict_mobile">Dữ liệu di động</string>
+    <string name="data_usage_app_restrict_mobile_summary">Cho phép sử dụng dữ liệu di động</string>
+    <string name="data_usage_app_restrict_vpn">Dữ liệu VPN</string>
+    <string name="data_usage_app_restrict_vpn_summary">Cho phép sử dụng dữ liệu VPN</string>
+    <string name="data_usage_app_restrict_wifi">Dữ liệu Wi\u2011Fi</string>
+    <string name="data_usage_app_restrict_wifi_summary">Bật dữ liệu sử dụng Wi\u2011Fi</string>
+    <string name="tethering_allow_vpn_upstreams_title">Cho phép máy khách sử dụng VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Cho phép hotspot các máy khách sử dụng các kết nối VPN của thiết bị\u2019 này để kết nối ngược dòng</string>
+    <string name="device_info_protected_single_press">Chạm để hiện thông tin</string>
+    <string name="volume_link_notification_title">Liên kết âm lượng nhạc chuông &amp; thông báo</string>
+    <string name="incall_feeedback_vibrate_title">Rung để chỉ trạng thái cuộc gọi</string>
+    <string name="increasing_ring_volume_option_title">Tăng âm lượng chuông</string>
+    <string name="increasing_ring_min_volume_title">Âm lượng khởi động</string>
+    <string name="increasing_ring_ramp_up_time_title">Khoảng thời gian tăng dần</string>
+    <string name="top_level_connectivity">Kết nối</string>
+    <string name="top_level_personalize">Cá nhân</string>
+    <string name="top_level_others">Khác</string>
+    <string name="smallest_tick_label">Tắt</string>
+    <string name="greatest_tick_label">Nửa màn hình</string>
+    <string name="gesture_back_deadzone_label">Vùng chết</string>
+    <string name="back_sensitivity_dialog_message_cust">\nSử dụng thanh điều khiển thứ nhất và thứ hai để điều chỉnh độ nhạy, thanh điều khiển cuối dùng để điều chỉnh vị trí vùng chết ở phía trên màn hình nơi thao tác vuốt không được nhận, để tránh xung đột với cử chỉ của trò chơi.</string>
+    <string name="security_settings_face_require_swipe">Vuốt lên để mở khóa</string>
+    <string name="security_settings_face_require_swipe_summary">Vuốt lên hoặc sử dụng gương mặt để mở khoá màn hình</string>
+    <string name="face_unlock_method_title">Cho phép Mở khoá bằng Khuôn mặt trên Màn hình khóa</string>
+    <string name="face_unlock_method_default">Khi màn hình được bật</string>
+    <string name="face_unlock_method_swipe">Khi vuốt trên màn hình khóa</string>
+    <string name="dot_battery_manager">Quản lý pin</string>
+    <string name="dot_battery_manager_summary1">• Tiết kiệm pin : </string>
+    <string name="dot_battery_manager_summary2">\n• Chế độ thích ứng cho pin : </string>
+    <string name="backup_transport_setting_label">Thay đổi dịch vụ sao lưu</string>
+    <string name="backup_transport_title">Lựa chọn dịch vụ sao lưu</string>
+    <string name="battery_stats_reset">Xóa dữ liệu sử dụng?</string>
+    <string name="battery_stats_message">Dữ liệu thống kê pin sẽ bị mất</string>
+    <string name="legacy_wfd_video_mode_title">Chế độ quay</string>
+    <string name="legacy_wfd_video_mode_720p_30fps">720p (30 khung hình/giây)</string>
+    <string name="legacy_wfd_video_mode_720p_60fps">720p (60 khung hình/giây)</string>
+    <string name="legacy_wfd_video_mode_1080p_30fps">1080p (30 khung hình/giây)</string>
+    <string name="legacy_wfd_video_mode_1080p_60fps">1080p (60 khung hình/giây)</string>
+    <string name="wake_when_plugged_or_unplugged_title">Bật sáng màn hình khi cắm sạc</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Bật sáng màn hình khi kết nối hoặc ngắt kết nối nguồn điện</string>
+    <string name="screenshot_sound_title">Âm thanh chụp màn hình</string>
+</resources>

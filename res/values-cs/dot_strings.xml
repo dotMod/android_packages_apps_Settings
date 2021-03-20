@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 dotOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+     
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dot_version">Verze DotOS</string>
+    <string name="dot_version_default">Neznámá</string>
+    <string name="keywords_dot_version">verze dotOS, dot verze</string>
+    <string name="about_device_name">Kódové označení zařízení</string>
+    <string name="build_date">Datum sestavení</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">datum sestavení, info o sestavení</string>
+    <string name="app_play_store">Obchod Play</string>
+    <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
+    <string name="platform_revision">Platforma</string>
+    <string name="total_ram">Celkem RAM</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Vyhledejte snímač otisků prstů na přední straně telefonu.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Vyhledejte snímač otisků prstů na levé straně telefonu.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Vyhledejte snímač otisků prstů na pravé straně telefonu.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Vyhledejte snímač otisků prstů na přední straně zařízení.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Vyhledejte snímač otisků prstů na levé straně zařízení.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Vyhledejte snímač otisků prstů na pravé straně zařízení.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Vyhledejte snímač otisků prstů na přední straně tabletu.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Vyhledejte snímač otisků prstů na levé straně tabletu.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Vyhledejte snímač otisků prstů na pravé straně tabletu.</string>
+    <string name="selinux_status">Stav SELinux</string>
+    <string name="selinux_status_disabled">Vypnuto</string>
+    <string name="selinux_status_permissive">Mírný</string>
+    <string name="selinux_status_enforcing">Vynucený</string>
+    <string name="storage_card_title">Úložiště</string>
+    <string name="storage_card_info">Obsazené</string>
+    <string name="about_device_rom_title">DotOS %s</string>
+    <string name="about_device_nearby">Název zařízení může být a bude zobrazen zařízeními v okolí.</string>
+    <string name="binfo_stats">Statistiky</string>
+    <string name="dot_customizer_dashboard_title">Přizpůsobení</string>
+    <string name="dot_customizer_dashboard_summary">Přizpůsobte si svůj zážitek kapkou barvy</string>
+    <string name="dot_gaming_mode_dashboard_title">Herní ovládací panel</string>
+    <string name="dot_gaming_mode_dashboard_summary">Udržuje vás soustředěné na hru</string>
+    <string name="dot_about_device_info">Právní informace</string>
+    <string name="dot_about_device_private">Osobní údaje</string>
+    <string name="dot_lightMode">Světlý motiv</string>
+    <string name="dot_darkMode">Tmavý motiv</string>
+    <string name="cellular_data_title">Mobilní data</string>
+    <string name="connected_tws_device_saved_title">Uložená sluchátka</string>
+    <string name="mobile_data_settings_summary_unavailable">Není k dispozici žádná SIM karta</string>
+    <string name="unlock_scramble_pin_layout_title">Přeházet rozložení</string>
+    <string name="unlock_scramble_pin_layout_summary">Přeházet rozložení pro zadání PINu při odemykání zařízení</string>
+    <string name="statusbar_tuner_title">Úprava stavového řádku</string>
+    <string name="security_settings_face_settings_footer_custom">Odemknutí obličejem vám umožní odemknout zařízení pohledem. Mějte na paměti:\n\n● Vaše zařízení se může odemknout, kdykoli se na něj podíváte.\n● Vaše zařízení může odemknout někdo jiný, pokud jej drží před vaší tváří, zatímco máte otevřené oči.\n● Vaše zařízení může odemknout také někdo, kdo vypadá podobně jako vy, například dítě nebo identický sourozenec.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">Data, která se při odemknutí obličeje uloží, budou trvale a bezpečně smazána. Pokud chcete odemknout telefon po jejich odstranění, musíte zadat kód PIN, gesto nebo heslo.</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Odstranit stávající sken obličeje a vytvořit nový</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Znovu naskenovat obličej</string>
+    <string name="security_dashboard_summary_face_and_fingerprint">Zámek obrazovky, otisk prstu, odemknutí obličejem</string>
+    <string name="face_redo_confirm_btn">Znovu</string>
+    <string name="face_redo_warning_msg">Chcete odstranit stávající sken obličeje a vytvořit nový?</string>
+    <string name="live_display_summary">Optimalizovat obrazovku podle denní doby a okolních podmínek pro lepší čitelnost a snížení namáhání očí</string>
+    <string name="live_display_mode">Režim obrazovky</string>
+    <string name="live_display_color_temperature_title">Teplota barev</string>
+    <string name="live_display_color_temperature_summary">Den: <xliff:g id="day_temperature">%1$d</xliff:g>K  Noc: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
+    <string name="live_display_day">Den</string>
+    <string name="live_display_night">Noc</string>
+    <string name="live_display_outdoor_mode_title">Automatický režim venku</string>
+    <string name="live_display_outdoor_mode_summary">Automaticky zvýšit jas a sytost za jasného slunečního světla</string>
+    <string name="live_display_anti_flicker_title">Eliminace blikání</string>
+    <string name="live_display_anti_flicker_summary">Zabraňuje znatelnému blikání a snižuje námahu očí při používání zařízení potmě. Může však dojít ke zhoršení přesnosti barev a ovlivnění způsobu, jakým jsou zobrazeny některé položky na obrazovce.</string>
+    <string name="live_display_low_power_title">Snížit spotřebu energie</string>
+    <string name="live_display_low_power_summary">Upravit zobrazení pro nejnižší spotřebu energie bez zhoršení čitelnosti</string>
+    <string name="live_display_enhance_color_title">Vylepšit barvy</string>
+    <string name="live_display_enhance_color_summary">Zlepšit živost barev pleťových odstínů, scenérie a dalších obrázků</string>
+    <string name="live_display_color_profile_title">Barevný profil</string>
+    <string name="live_display_color_profile_standard_title">Standardní</string>
+    <string name="live_display_color_profile_standard_summary">Přesné barvy a jasná bílá</string>
+    <string name="live_display_color_profile_natural_title">Přirozený</string>
+    <string name="live_display_color_profile_natural_summary">Reálné barvy a tělové tóny</string>
+    <string name="live_display_color_profile_dynamic_title">Dynamický</string>
+    <string name="live_display_color_profile_dynamic_summary">Vylepšené barvy a jasná bílá</string>
+    <string name="live_display_color_profile_cinema_title">Kino</string>
+    <string name="live_display_color_profile_cinema_summary">Perfektní zobrazení barev pro video</string>
+    <string name="live_display_color_profile_astronomy_title">Astronomie</string>
+    <string name="live_display_color_profile_astronomy_summary">Hluboká červená pro zachování vidění v noci</string>
+    <string name="live_display_color_profile_photography_title">Fotografie</string>
+    <string name="live_display_color_profile_photography_summary">Perfektní zobrazení barev pro fotografie</string>
+    <string name="live_display_color_profile_basic_title">Základní</string>
+    <string name="live_display_color_profile_basic_summary">Použít nezkalibrovaný displej</string>
+    <string name="live_display_color_profile_adaptive_title">Adaptivní</string>
+    <string name="live_display_color_profile_adaptive_summary">Přizpůsobit barvy okolním podmínkám</string>
+    <string name="live_display_color_profile_reading_title">Čtení</string>
+    <string name="live_display_color_profile_reading_summary">Teplejší barvy pro menší namáhání očí</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Barvy s přesností na barevný prostor sRGB</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Barvy s přesností na barevný prostor DCI-P3</string>
+    <string name="live_display_reading_mode_title">Režim čtení</string>
+    <string name="live_display_reading_mode_summary">Režim stupňů šedi pro dlouhodobé čtení</string>
+    <string name="color_calibration_title">Kalibrace barev</string>
+    <string name="color_calibration_summary">Kalibrace barev na displeji</string>
+    <string name="color_red_title">Červená</string>
+    <string name="color_green_title">Zelená</string>
+    <string name="color_blue_title">Modrá</string>
+    <string name="picture_adjustment_title">Přizpůsobení obrazu</string>
+    <string name="picture_adjustment_summary">Přizpůsobit odstín, sytost, intenzitu a kontrast</string>
+    <string name="adj_hue_title">Odstín</string>
+    <string name="adj_saturation_title">Sytost</string>
+    <string name="adj_intensity_title">Intenzita</string>
+    <string name="adj_contrast_title">Kontrast</string>
+    <string name="display_rotation_title">Nastavení otáčení</string>
+    <string name="display_rotation_enabled">Automatické otáčení povoleno</string>
+    <string name="display_rotation_disabled">Automatické otáčení zakázáno</string>
+    <string name="display_rotation_unit">stupně</string>
+    <string name="display_rotation_category_title">Režimy otáčení</string>
+    <string name="display_rotation_0_title">0°</string>
+    <string name="display_rotation_90_title">90°</string>
+    <string name="display_rotation_180_title">180°</string>
+    <string name="display_rotation_270_title">270°</string>
+    <string name="data_usage_app_restrict_all">Povolit přístup k síti</string>
+    <string name="data_usage_app_restrict_all_summary">Povolit využití sítě</string>
+    <string name="data_usage_app_restrict_mobile">Mobilní data</string>
+    <string name="data_usage_app_restrict_mobile_summary">Povolit používání mobilních dat</string>
+    <string name="data_usage_app_restrict_vpn">VPN data</string>
+    <string name="data_usage_app_restrict_vpn_summary">Povolit používání VPN dat</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi data</string>
+    <string name="data_usage_app_restrict_wifi_summary">Povolit používání Wi\u2011Fi dat</string>
+    <string name="tethering_allow_vpn_upstreams_title">Umožnit klientům používat VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Povolit klientům hotspotu používat připojení VPN tohoto zařízení pro upstream konektivitu</string>
+    <string name="device_info_protected_single_press">Klepnutím zobrazíte informace</string>
+    <string name="volume_link_notification_title">Spojit hlasitost vyzvánění a oznámení</string>
+    <string name="incall_feeedback_vibrate_title">Vibrace při volání</string>
+    <string name="increasing_ring_volume_option_title">Narůstající hlasitost vyzvánění</string>
+    <string name="increasing_ring_min_volume_title">Počáteční hlasitost</string>
+    <string name="increasing_ring_ramp_up_time_title">Doba zesilování</string>
+    <string name="top_level_connectivity">Připojení</string>
+    <string name="top_level_personalize">Personalizace</string>
+    <string name="top_level_others">Další</string>
+    <string name="smallest_tick_label">Vyp.</string>
+    <string name="greatest_tick_label">Polovina obrazovky</string>
+    <string name="gesture_back_deadzone_label">Mrtvá oblast</string>
+    <string name="back_sensitivity_dialog_message_cust">\nPomocí prvního a druhého vyhledávacího panelu nakonfigurujte citlivost přejetí zpět, posledním vyhledávacím panelem nastavte mrtvou oblast obrazovky, na které nelze použít přejetím prstem, aby nedocházelo ke konfliktům s gesty v aplikacích.</string>
+    <string name="security_settings_face_require_swipe">Přejetím prstu nahoru odemknout</string>
+    <string name="security_settings_face_require_swipe_summary">Chcete-li použít odemknutí obličeje, přejeďte prstem nahoru po zamykací obrazovce</string>
+    <string name="face_unlock_method_title">Povolit odemknutí obličejem na obrazovce uzamčení</string>
+    <string name="face_unlock_method_default">Když je obrazovka zapnutá</string>
+    <string name="face_unlock_method_swipe">Při přejetí prstem na uzamčené obrazovce</string>
+    <string name="dot_battery_manager">Správce baterie</string>
+    <string name="dot_battery_manager_summary1">• Úspora baterie : </string>
+    <string name="dot_battery_manager_summary2">\n• Adaptivní baterie: </string>
+    <string name="backup_transport_setting_label">Změnit poskytovatele zálohování</string>
+    <string name="backup_transport_title">Nastavit poskytovatele zálohování</string>
+    <string name="battery_stats_reset">Vynulovat statistiky?</string>
+    <string name="battery_stats_message">Chystáte se obnovit historii statistiky baterie</string>
+    <string name="legacy_wfd_video_mode_title">Režim videa</string>
+    <string name="legacy_wfd_video_mode_720p_30fps">720p (30fps)</string>
+    <string name="legacy_wfd_video_mode_720p_60fps">720p (60fps)</string>
+    <string name="legacy_wfd_video_mode_1080p_30fps">1080p (30fps)</string>
+    <string name="legacy_wfd_video_mode_1080p_60fps">1080p (60fps)</string>
+    <string name="wake_when_plugged_or_unplugged_title">Probudit při připojení</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Zapnout obrazovku při připojení nebo odpojení zdroje napájení</string>
+    <string name="screenshot_sound_title">Zvuk při snímku obrazovky</string>
+</resources>
