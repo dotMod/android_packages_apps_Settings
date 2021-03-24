@@ -67,11 +67,11 @@ android_library {
         "kotlinx-coroutines-core",
         "faceunlock_framework",
         "VendorSupport-preference",
+        "telephony-ext",
     ],
 
     libs: [
         "telephony-common",
-        "telephony-ext",
         "ims-common",
         "app-compat-annotations",
     ],
