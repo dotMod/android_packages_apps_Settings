@@ -4968,4 +4968,21 @@
     <string name="bluetooth_phonebook_access_notification_content" msgid="4280361621526852063">"Um dispositivo não confiável quer acessar seus contatos e seu registro de chamadas. Toque para ver detalhes."</string>
     <string name="bluetooth_phonebook_access_dialog_title" msgid="7624607995928968721">"Conceder acesso aos contatos e ao registro de chamadas?"</string>
     <string name="bluetooth_phonebook_access_dialog_content" msgid="4766700015848574532">"Um dispositivo Bluetooth não confiável, <xliff:g id="DEVICE_NAME_0">%1$s</xliff:g>, quer acessar seus contatos e seu registro de chamadas. Isso inclui dados sobre chamadas recebidas e realizadas.\n\nVocê não se conectou a <xliff:g id="DEVICE_NAME_1">%2$s</xliff:g> antes."</string>
+
+    <!-- Colored Statusbar Icons -->
+    <string name="statusbar_icons_style">Ícones coloridos da barra de status</string>
+    <string name="statusbar_icons_style_summary">Escolha o estilo dos ícones da barra de status (requer reinicialização do SystemUI)</string>
+
+    <!-- Refresh rate -->
+    <string name="min_refresh_rate_title">Taxa mínima de atualização</string>
+    <string name="max_refresh_rate_title">Taxa máxima de atualização</string>
+    <string name="battery_saver_refresh_rate_title">Reduza a taxa de atualização</string>
+    <string name="battery_saver_refresh_rate_summary">Use 60 Hz como taxa de atualização máxima para economizar energia quando a Economia de bateria estiver ativada</string>
+
+    <!-- Back Gestures -->
+    <string name="smallest_tick_label">Desativado</string>
+    <string name="greatest_tick_label">Meia tela</string>
+    <string name="gesture_back_deadzone_label">Zona morta</string>
+    <string name="back_sensitivity_dialog_message_cust">Use a primeira e a segunda barra de busca para configurar a sensibilidade de deslizar para trás, a última barra de busca para definir uma área morta no topo da tela onde a passagem não pode ser acionada, para evitar conflitos com gestos no aplicativo.</string>
+
 </resources>
