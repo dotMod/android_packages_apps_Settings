@@ -150,6 +150,13 @@
         android:summary="@string/use_old_mobiletype_summary" 
         android:defaultValue="true" />
 
+    <com.dot.support.preferences.SystemSettingSwitchPreference
+        android:key="statusbar_icons_style"
+        android:layout="@layout/dot_preference_middle_card"
+       	android:title="@string/statusbar_icons_style"
+        android:summary="@string/statusbar_icons_style_summary"
+        android:defaultValue="true" />
+
     <com.android.settings.display.ScreenZoomPreference
         android:key="display_settings_screen_zoom"
         android:layout="@layout/dot_preference_middle_card"
