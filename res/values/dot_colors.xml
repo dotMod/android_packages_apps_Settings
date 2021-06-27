@@ -21,11 +21,4 @@
     <color name="ic_launcher_background">#516B91</color>
     <color name="settingsPanelColor">#FFFFFF</color>
     <color name="pillColor">#9E9E9E</color>
-
-    <!-- Google -->
-    <color name="homepage_icon_google_color">#2675de</color>
-
-    <!-- Wellbeing -->
-    <color name="homepage_icon_wellbeing_color">#5bc561</color>
-
 </resources>
