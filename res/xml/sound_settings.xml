@@ -177,7 +177,7 @@
         android:summary="@string/summary_placeholder"
         android:ringtoneType="ringtone"
         settings:allowDividerAbove="false"
-        android:order="-90"/>
+        android:order="-124"/>
 
     <!-- Default notification ringtone -->
     <com.android.settings.DefaultRingtonePreference
@@ -187,7 +187,7 @@
         android:dialogTitle="@string/notification_ringtone_title"
         android:summary="@string/summary_placeholder"
         android:ringtoneType="notification"
-        android:order="-124"/>
+        android:order="-123"/>
 
     <!-- Default alarm ringtone -->
     <com.android.settings.DefaultRingtonePreference
@@ -198,7 +198,7 @@
         android:summary="@string/summary_placeholder"
         android:persistent="false"
         android:ringtoneType="alarm"
-        android:order="-123"/>
+        android:order="-122"/>
 
     <!-- Other sounds -->
     <PreferenceCategory
