@@ -288,4 +288,7 @@
     <!-- Wake on plug -->
     <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
     <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+
+    <!-- Used in SetupWizard Wi-Fi network selection page [CHAR LIMIT=60] -->
+    <string name="wifi_setup_wizard_title">Select Wi\u2011Fi network</string>
 </resources>
