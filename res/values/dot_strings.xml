@@ -77,6 +77,10 @@
     <string name="dot_customizer_dashboard_title">Customization</string>
     <string name="dot_customizer_dashboard_summary">Personalize your experience with a drop of paint</string>
 
+    <!-- Gaming Dashboard -->
+    <string name="dot_gaming_mode_dashboard_title">Gaming Dashboard</string>
+    <string name="dot_gaming_mode_dashboard_summary">Keeps you focused on the game</string>
+
     <string name="dot_about_device_info">Legal &amp; Information</string>
     <string name="dot_about_device_private">Private Details</string>
 
@@ -210,6 +214,12 @@
     <string name="top_level_security" translatable="false">@string/security_settings_title</string>
     <string name="top_level_others">Others</string>
 
+    <!-- Back Gestures -->
+    <string name="smallest_tick_label">Off</string>
+    <string name="greatest_tick_label">Half screen</string>
+    <string name="gesture_back_deadzone_label">Dead zone</string>
+    <string name="back_sensitivity_dialog_message_cust">\nUse the first and second seekbar to configure back swipe sensitivity, the last seekbar to set a dead area on top of the screen where the swipe cannot be triggered, to avoid conflicts with in-app gestures.</string>
+
     <!-- Swipe up for face unlock -->
     <string name="security_settings_face_require_swipe">Swipe up to unlock</string>
     <string name="security_settings_face_require_swipe_summary">Swipe up on the lockscreen to use face unlock</string>
@@ -262,4 +272,8 @@
 
     <!-- Adguard DNS -->
     <string name="private_dns_mode_adguard" translatable="false">AdGuard DNS</string>
+
+    <string name="dot_battery_manager">Battery Manager</string>
+    <string name="dot_battery_manager_summary1">• Battery Saver : </string>
+    <string name="dot_battery_manager_summary2">\n• Adaptive Battery : </string>
 </resources>
