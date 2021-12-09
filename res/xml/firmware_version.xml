@@ -44,8 +44,8 @@
          settings:controller="com.android.settings.deviceinfo.firmwareversion.DotVersionPreferenceController"/>
 
     <!-- Dotos maintainer -->
-    <Preferenc
-         android:key="maintainer" 
+    <Preference
+        android:key="maintainer" 
         android:title="@string/maintainer"
         android:summary="@string/maintainer_name"
         settings:enableCopying="true" />
