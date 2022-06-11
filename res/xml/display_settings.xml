@@ -143,6 +143,13 @@
         android:summary="@string/summary_placeholder"
         settings:controller="com.android.settings.display.PeakRefreshRatePreferenceController" />
 
+    <com.dot.support.preferences.SystemSettingSwitchPreference
+        android:key="use_old_mobiletype" 
+        android:layout="@layout/dot_preference_middle_card"
+        android:title="@string/use_old_mobiletype_title" 
+        android:summary="@string/use_old_mobiletype_summary" 
+        android:defaultValue="true" />
+
     <com.android.settings.display.ScreenZoomPreference
         android:key="display_settings_screen_zoom"
         android:layout="@layout/dot_preference_middle_card"
