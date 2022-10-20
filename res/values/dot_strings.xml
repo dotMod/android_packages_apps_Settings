@@ -296,8 +296,4 @@
 
     <!-- Configure notifications: Title for advanced notification settings pane -->
     <string name="advanced_notifications_title">Advanced notification settings</string>
-
-    <!-- Dolby -->
-    <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_summary">Configure the audio output based on media content</string>
 </resources>

@@ -149,17 +149,6 @@
         settings:controller="com.android.settings.notification.zen.ZenModePreferenceController"/>
 
 
-    <!-- Dolby Atmos -->
-    <Preference
-        android:key="audio_dolby_atmos"
-        android:title="@string/dolby_title"
-        android:order="-108"
-        android:summary="@string/dolby_summary">
-        <intent
-            android:targetPackage="com.dolby.daxappui"
-            android:targetClass="com.dolby.daxappui.MainActivity" />
-    </Preference>
-
     <Preference
         android:key="gesture_prevent_ringing_sound"
         android:layout="@layout/dot_preference_middle_card"
