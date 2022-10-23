@@ -296,8 +296,4 @@
 
     <!-- Configure notifications: Title for advanced notification settings pane -->
     <string name="advanced_notifications_title">Advanced notification settings</string>
-
-    <string name="wifi_tether_client_list_title">Client List</string>
-    <string name="wifi_tether_client_list_summary">Manage clients connected to hotspot</string>
-
 </resources>
